@@ -1,1 +1,1 @@
-# Bir Hastane Firmasının Kurumsal Sayfa Bölümünü İçeri
+# Bir Hastanenin Kurumsal Sayfa Bölümünü İçeri
